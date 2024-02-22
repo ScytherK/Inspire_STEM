@@ -18,4 +18,4 @@ d = float(input ("Enter the common difference"))
 
 Nth = a+(n-1)*d
 
-print("N is equal to" + str(Nth))
+print(str(n) + "th term is equal to" + str(Nth))
