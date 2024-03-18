@@ -1,0 +1,29 @@
+ section{
+        background-color:pink;
+        color: bisque;
+    }
+img{
+        height:6cm;
+        width:6cm;
+    }
+.header-1{
+        color:palevioletred
+    }
+.ball{
+        background-color: chocolate;
+        height:100px;
+        width:100px;
+        borderradius:50px;
+    }
+#bouncing{
+        position:absolute;
+    }
+body{
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        width: 100vh;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
